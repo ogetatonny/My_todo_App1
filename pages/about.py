@@ -20,4 +20,7 @@ st.write("In our daily interactions with students, friends or workmates, it is c
                        "- Github: https://github.com/ogetatonny\n"
                        "- Twitter: https://twitter.com/TonnyOgeta\n"
                        "- LinkedIn: https://www.linkedin.com/in/tony-ogeta-ba566a143/\n"
-         "2. Edwin Omurwa\n")
+         "2. Edwin Omurwa\n"
+                       "- Github:https://github.com/edwinogechi\n"
+                       "- Twitter: https://twitter.com/Edwinguy10\n"
+                       "- LinkedIn: https://www.linkedin.com/in/edwin-ogechi-1b837a164/\n")
